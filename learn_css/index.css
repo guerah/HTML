@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(255, 0, 191);
+    font: sans-serif;
+  }
+  p {
+    color: rgb(0, 139, 7);
+    font: small;
+  } 
+  #blue-bordered {
+    border: 5px dashed blue;} 
+    .title{
+        color:brown;
+    } 
+    .test{
+color:blueviolet
+    }
+    .test2{
+        color: brown;
+    }
+    .box p {
+        color: red;
+}  
